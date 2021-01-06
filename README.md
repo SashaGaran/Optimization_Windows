@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="/img/Ultilites.png" alt="image" width="200"/>
+</p>
+
 # Оптимизация Windows
 Гайд полной оптимизации Windows XP, 7, 8, 8.1, 10 и полезные советы.
 
