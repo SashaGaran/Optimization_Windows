@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="/img/Ultilites.png" alt="image" width="200"/>
+  <img src="./img/Ultilites.png" alt="image" width="200"/>
 </p>
 
 # Оптимизация Windows
