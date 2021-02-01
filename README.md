@@ -6,7 +6,7 @@
 # Оптимизация Windows
 Гайд полной оптимизации Windows XP, 7, 8, 8.1, 10 и полезные советы.
 
-Крутые программы для Windows:
+***Крутые*** программы для Windows:
 - [Blender](https://www.blender.org/)
 - [Caesium](https://saerasoft.com/caesium/)
 - [Dism++](https://www.chuyu.me/ru/index.html)
