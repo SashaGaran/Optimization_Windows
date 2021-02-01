@@ -20,7 +20,6 @@
 - [Sandboxie](https://github.com/sandboxie/sandboxie)
 - [Steam Cleaner](https://github.com/Codeusa/SteamCleaner)
 - [Sublime Text](https://www.sublimetext.com/)
-- [Transmission](https://transmissionbt.com/)
 - [Ventoy](https://github.com/ventoy/Ventoy)
 - [Win 10 Tweaker](https://win10tweaker.pro/)
 - [WizTree](https://wiztreefree.com/)
