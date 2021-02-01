@@ -10,7 +10,7 @@
 - [Win 10 Tweaker](https://win10tweaker.pro/)
 - [WizTree](https://wiztreefree.com/)
 - [Everything](https://www.voidtools.com/ru-ru/)
-- Sandboxie
+- [Sandboxie](https://github.com/sandboxie/sandboxie)
 - [Dism++](https://www.chuyu.me/ru/index.html)
 - [Steam Cleaner](https://github.com/Codeusa/SteamCleaner)
 - [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)
