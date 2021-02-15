@@ -1,0 +1,13 @@
+Источники:
+jailbreakvideo.ru/fonts-cleartype-directwrite
+win10tweaker.pro/forum/topic/все-для-зрения
+-----------------------------------------------------------
+
+Первое и самое главное правило при работе за монитором - не забывать моргать.
+Второе ОТКЛЮЧИТЬ везде СМАЗАННЫЕ ШРИФТЫ, ClearType и DirectWrite у шрифтов.
+Вечером и ночью использовать "Ночной свет" или f.lux (link: justgetflux.com)
+
+Адекватные шрифты:
+  - Tahoma
+  - Verdana
+  - Open Sans
