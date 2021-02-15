@@ -14,6 +14,7 @@
 - [Everything](https://www.voidtools.com/ru-ru/)
 - [KeePass](https://keepass.info/)
 - [MagicaVoxel](https://ephtracy.github.io/)
+- [NetLimiter](https://www.netlimiter.com/)
 - [Notepad++](https://notepad-plus-plus.org/)
 - [Quick CPU](https://www.coderbag.com/product/quickcpu)
 - [Rufus](https://rufus.ie/)
