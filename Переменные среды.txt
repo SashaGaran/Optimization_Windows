@@ -1,0 +1,12 @@
+%ALLUSERSPROFILE% && %ProgramData% = C:\ProgramData
+%APPDATA% = C:\Users\User\AppData\Roaming
+%CommonProgramFiles% && %CommonProgramW6432% = C:\Program Files\Common Files
+%CommonProgramFiles(x86)% = C:\Program Files (x86)\Common Files
+%HOMEDRIVE% && %SystemDrive% = C:
+%LOCALAPPDATA% = C:\Users\User\AppData\Local
+%ProgramFiles% && %ProgramW6432% = C:\Program Files
+%ProgramFiles(x86)% = "C:\Program Files (x86)"
+%PUBLIC% = C:\Users\Public
+%SystemRoot% && %windir% = C:\WINDOWS
+%TEMP% && %TMP% = C:\Users\[username]\AppData\Local\Temp
+%USERPROFILE% = C:\Users\User
