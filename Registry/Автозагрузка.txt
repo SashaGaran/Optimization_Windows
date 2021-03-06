@@ -3,28 +3,28 @@
 
 -------------------------------------------------------------------------------
 Основные:
-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce
 
 В реестре Windows 7, 8 во всех пользовательских профилях, для 32-64 разрядных ОС:
-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run
-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run
 
 Для 64 разрядных ОС:
-HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Run
-HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\RunOnce
+HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Run
+HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\RunOnce
 
 Дополнительные:
-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Shared Tools\MSConfig\startupfolder
-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Shared Tools\MSConfig\startupreg
+HKLM\SOFTWARE\Microsoft\Shared Tools\MSConfig\startupfolder
+HKLM\SOFTWARE\Microsoft\Shared Tools\MSConfig\startupreg
 
 Ещё директория:
 %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
 
 
-HKEY_CURRENT_USER - программы запускаются при входе текущего пользователя
-HKEY_LOCAL_MACHINE - программы запускаются при входе в систему
+HKCU - программы запускаются при входе текущего пользователя
+HKLM - программы запускаются при входе в систему
 Run - программы запускаются всегда
 RunOnce - программы запускаются только один раз, после этого ключи программ автоматически удаляются из данного раздела реестра.
