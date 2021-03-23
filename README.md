@@ -7,16 +7,18 @@
 Гайд полной оптимизации Windows XP, 7, 8, 8.1, 10 и полезные советы.
 
 :fire: ***Крутые*** программы для Windows:
+- [AIMP](https://www.aimp.ru/)
 - [Blender](https://www.blender.org/)
 - [Caesium](https://saerasoft.com/caesium/)
-- [Dism++](https://www.chuyu.me/ru/index.html)
+- [Cent Browser](https://www.centbrowser.com/)
 - [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)
 - [Everything](https://www.voidtools.com/ru-ru/)
 - [KeePass](https://keepass.info/)
 - [MagicaVoxel](https://ephtracy.github.io/)
 - [NetLimiter](https://www.netlimiter.com/)
 - [Notepad++](https://notepad-plus-plus.org/)
-- [Quick CPU](https://www.coderbag.com/product/quickcpu)
+- [PotPlayer](https://potplayer.daum.net/)
+- [Punto Switcher](https://www.punto.yandex.ru/)
 - [Rufus](https://rufus.ie/)
 - [Sandboxie](https://github.com/sandboxie/sandboxie)
 - [Steam Cleaner](https://github.com/Codeusa/SteamCleaner)
