@@ -7,22 +7,29 @@
 Гайд полной оптимизации Windows XP, 7, 8, 8.1, 10 и полезные советы.
 
 :fire: ***Крутые*** программы для Windows:
-- [AIMP](https://www.aimp.ru/)
-- [Blender](https://www.blender.org/)
-- [Caesium](https://saerasoft.com/caesium/)
-- [Cent Browser](https://www.centbrowser.com/)
-- [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)
-- [Everything](https://www.voidtools.com/ru-ru/)
-- [KeePass](https://keepass.info/)
-- [MagicaVoxel](https://ephtracy.github.io/)
-- [NetLimiter](https://www.netlimiter.com/)
-- [Notepad++](https://notepad-plus-plus.org/)
-- [PotPlayer](https://potplayer.daum.net/)
-- [Punto Switcher](https://www.punto.yandex.ru/)
-- [Rufus](https://rufus.ie/)
-- [Sandboxie](https://github.com/sandboxie/sandboxie)
-- [Steam Cleaner](https://github.com/Codeusa/SteamCleaner)
-- [Sublime Text](https://www.sublimetext.com/)
-- [Ventoy](https://github.com/ventoy/Ventoy)
-- [Win 10 Tweaker](https://win10tweaker.pro/)
-- [WizTree](https://wiztreefree.com/)
+- 3D Моделитование
+    - [Blender](https://www.blender.org/)
+    - [MagicaVoxel](https://ephtracy.github.io/)
+- Блокното-заменители
+    - [Notepad++](https://notepad-plus-plus.org/)
+    - [Sublime Text](https://www.sublimetext.com/)
+- Браузеры
+    - [Cent Browser](https://www.centbrowser.com/)
+- Загрузочная флешка
+    - [Rufus](https://rufus.ie/)
+    - [Ventoy](https://github.com/ventoy/Ventoy)
+- Программирование для начинающих
+    - [PICO-8](https://www.lexaloffle.com/pico-8.php)
+- Проигрыватели и «Просмотряторы»
+    - [AIMP](https://www.aimp.ru/)
+    - [IrfanView](https://www.irfanview.com/)
+    - [PotPlayer](https://potplayer.daum.net/)
+- Ултилиты
+    - [Caesium](https://saerasoft.com/caesium/)
+    - [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer)
+    - [Everything](https://www.voidtools.com/ru-ru/)
+    - [KeePass](https://keepass.info/)
+    - [NetLimiter](https://www.netlimiter.com/)
+    - [Punto Switcher](https://www.punto.yandex.ru/)
+    - [Sandboxie](https://github.com/sandboxie/sandboxie)
+    - [Win 10 Tweaker](https://win10tweaker.pro/)
