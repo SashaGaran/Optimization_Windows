@@ -15,6 +15,9 @@
     - [Sublime Text](https://www.sublimetext.com/)
 - Браузеры
     - [Cent Browser](https://www.centbrowser.com/)
+- Виртуальные машины
+    - [VirtualBox 5.2.42](https://download.virtualbox.org/virtualbox/5.2.42/VirtualBox-5.2.42-137960-Win.exe)
+    - [+ Extension Pack 5.2.42](https://download.virtualbox.org/virtualbox/5.2.42/Oracle_VM_VirtualBox_Extension_Pack-5.2.42.vbox-extpack)
 - Загрузочная флешка
     - [Rufus](https://rufus.ie/)
     - [Ventoy](https://github.com/ventoy/Ventoy)
@@ -33,3 +36,5 @@
     - [Punto Switcher](https://www.punto.yandex.ru/)
     - [Sandboxie](https://github.com/sandboxie/sandboxie)
     - [Win 10 Tweaker](https://win10tweaker.pro/)
+    - [Resource Hacker](http://www.angusj.com/resourcehacker/)
+    - [Process Hacker](https://processhacker.sourceforge.io/)
