@@ -33,7 +33,7 @@
     - [Everything](https://www.voidtools.com/ru-ru/)
     - [KeePass](https://keepass.info/)
     - [NetLimiter](https://www.netlimiter.com/)
-    - [Process Hacker](https://processhacker.sourceforge.io/)
+    - [Process Hacker 2](https://processhacker.sourceforge.io/)
     - [Punto Switcher](https://www.punto.yandex.ru/)
     - [Resource Hacker](http://www.angusj.com/resourcehacker/)
     - [Sandboxie](https://github.com/sandboxie/sandboxie)
