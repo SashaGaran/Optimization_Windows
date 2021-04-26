@@ -37,4 +37,6 @@
     - [Punto Switcher](https://www.punto.yandex.ru/)
     - [Resource Hacker](http://www.angusj.com/resourcehacker/)
     - [Sandboxie](https://github.com/sandboxie/sandboxie)
+    - [Snappy Driver Installer](https://sdi-tool.org/)
+    - [Total Uninstall](https://www.martau.com/)
     - [Win 10 Tweaker](https://win10tweaker.pro/)
