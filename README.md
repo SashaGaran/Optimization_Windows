@@ -40,3 +40,7 @@
     - [Snappy Driver Installer](https://sdi-tool.org/)
     - [Total Uninstall](https://www.martau.com/)
     - [Win 10 Tweaker](https://win10tweaker.pro/)
+    - [WizTree](https://wiztreefree.com/)
+
+        [Скачать 32-битный пакет](https://drive.google.com/file/d/1RhjDVnYjy7FwpMvQrnV80bBX51QzuHCq/view?usp=sharing)
+        [Скачать 64-битный пакет](https://drive.google.com/file/d/12zOugfvoJUphk3foETkEirxo7FPDa2gQ/view?usp=sharing)
