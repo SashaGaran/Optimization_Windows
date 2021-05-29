@@ -21,6 +21,7 @@
     - [Rufus](https://rufus.ie/)
     - [Ventoy](https://github.com/ventoy/Ventoy)
 - Программирование для начинающих
+    - [C# Уроки](https://youtube.com/playlist?list=PL05SB3rBbUsraqiEUeS70RKhVAu97nGeb)
     - [PICO-8](https://www.lexaloffle.com/pico-8.php)
 - Проигрыватели и «Просмотряторы»
     - [AIMP](https://www.aimp.ru/)
