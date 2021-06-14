@@ -27,6 +27,8 @@
     - [AIMP](https://www.aimp.ru/)
     - [IrfanView](https://www.irfanview.com/)
     - [PotPlayer](https://potplayer.daum.net/)
+- Резервное копирование
+    - [AOMEI Backupper](https://repack.me/software/repacks/data/218-aomei-backupper.html)
 - Ултилиты
     - [Caesium](https://saerasoft.com/caesium/)
     - [CompactGUI](https://github.com/ImminentFate/CompactGUI)
